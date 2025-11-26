@@ -1,0 +1,11 @@
+websocket-client
+requests
+google-generativeai
+pygame
+asyncio
+threading
+queue
+json
+time
+datetime
+bilibili-api-python
